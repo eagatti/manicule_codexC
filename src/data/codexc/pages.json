@@ -1,0 +1,2597 @@
+{
+    "project": {
+        "title": "Evangeliary of Alberto of Vercelli",
+        "shelfmark": "Codex C",
+        "notationStyle": "r-v",
+        "metadata": {
+            "date": "1190-1204"
+        },
+        "preferences": {
+            "showTips": false,
+            "group": {},
+            "leaf": {
+                "folio_number": true
+            },
+            "side": {}
+        },
+        "manifests": {},
+        "taxonomies": [
+            "Unknown"
+        ]
+    },
+    "Groups": {
+        "1": {
+            "params": {
+                "type": "Quire",
+                "title": "None",
+                "nestLevel": 1
+            },
+            "tacketed": [],
+            "sewing": [],
+            "parentOrder": null,
+            "memberOrders": [
+                "Leaf_1"
+            ]
+        },
+        "2": {
+            "params": {
+                "type": "Quire",
+                "title": "None",
+                "nestLevel": 1
+            },
+            "tacketed": [],
+            "sewing": [],
+            "parentOrder": null,
+            "memberOrders": [
+                "Leaf_2",
+                "Leaf_3",
+                "Leaf_4",
+                "Leaf_5"
+            ]
+        },
+        "3": {
+            "params": {
+                "type": "Quire",
+                "title": "None",
+                "nestLevel": 1
+            },
+            "tacketed": [],
+            "sewing": [],
+            "parentOrder": null,
+            "memberOrders": [
+                "Leaf_6",
+                "Leaf_7"
+            ]
+        },
+        "4": {
+            "params": {
+                "type": "Quire",
+                "title": "None",
+                "nestLevel": 1
+            },
+            "tacketed": [],
+            "sewing": [],
+            "parentOrder": null,
+            "memberOrders": [
+                "Leaf_8"
+            ]
+        },
+        "5": {
+            "params": {
+                "type": "Quire",
+                "title": "None",
+                "nestLevel": 1
+            },
+            "tacketed": [],
+            "sewing": [],
+            "parentOrder": null,
+            "memberOrders": [
+                "Leaf_9",
+                "Leaf_10"
+            ]
+        },
+        "6": {
+            "params": {
+                "type": "Quire",
+                "title": "None",
+                "nestLevel": 1
+            },
+            "tacketed": [],
+            "sewing": [],
+            "parentOrder": null,
+            "memberOrders": [
+                "Leaf_11",
+                "Leaf_12",
+                "Leaf_13",
+                "Leaf_14",
+                "Leaf_15",
+                "Leaf_16"
+            ]
+        },
+        "7": {
+            "params": {
+                "type": "Quire",
+                "title": "None",
+                "nestLevel": 1
+            },
+            "tacketed": [],
+            "sewing": [],
+            "parentOrder": null,
+            "memberOrders": [
+                "Leaf_17",
+                "Leaf_18",
+                "Leaf_19",
+                "Leaf_20",
+                "Leaf_21",
+                "Leaf_22",
+                "Leaf_23",
+                "Leaf_24"
+            ]
+        },
+        "8": {
+            "params": {
+                "type": "Quire",
+                "title": "None",
+                "nestLevel": 1
+            },
+            "tacketed": [],
+            "sewing": [],
+            "parentOrder": null,
+            "memberOrders": [
+                "Leaf_25"
+            ]
+        },
+        "9": {
+            "params": {
+                "type": "Quire",
+                "title": "None",
+                "nestLevel": 1
+            },
+            "tacketed": [],
+            "sewing": [],
+            "parentOrder": null,
+            "memberOrders": [
+                "Leaf_26",
+                "Leaf_27",
+                "Leaf_28",
+                "Leaf_29",
+                "Leaf_30",
+                "Leaf_31"
+            ]
+        },
+        "10": {
+            "params": {
+                "type": "Quire",
+                "title": "None",
+                "nestLevel": 1
+            },
+            "tacketed": [],
+            "sewing": [],
+            "parentOrder": null,
+            "memberOrders": [
+                "Leaf_32"
+            ]
+        },
+        "11": {
+            "params": {
+                "type": "Quire",
+                "title": "None",
+                "nestLevel": 1
+            },
+            "tacketed": [],
+            "sewing": [],
+            "parentOrder": null,
+            "memberOrders": [
+                "Leaf_33",
+                "Leaf_34"
+            ]
+        },
+        "12": {
+            "params": {
+                "type": "Quire",
+                "title": "None",
+                "nestLevel": 1
+            },
+            "tacketed": [],
+            "sewing": [],
+            "parentOrder": null,
+            "memberOrders": [
+                "Leaf_35",
+                "Leaf_36",
+                "Leaf_37",
+                "Leaf_38"
+            ]
+        },
+        "13": {
+            "params": {
+                "type": "Quire",
+                "title": "None",
+                "nestLevel": 1
+            },
+            "tacketed": [],
+            "sewing": [],
+            "parentOrder": null,
+            "memberOrders": [
+                "Leaf_39",
+                "Leaf_40"
+            ]
+        },
+        "14": {
+            "params": {
+                "type": "Quire",
+                "title": "None",
+                "nestLevel": 1
+            },
+            "tacketed": [],
+            "sewing": [],
+            "parentOrder": null,
+            "memberOrders": [
+                "Leaf_41",
+                "Leaf_42"
+            ]
+        },
+        "15": {
+            "params": {
+                "type": "Quire",
+                "title": "None",
+                "nestLevel": 1
+            },
+            "tacketed": [],
+            "sewing": [],
+            "parentOrder": null,
+            "memberOrders": [
+                "Leaf_43"
+            ]
+        },
+        "16": {
+            "params": {
+                "type": "Quire",
+                "title": "None",
+                "nestLevel": 1
+            },
+            "tacketed": [],
+            "sewing": [],
+            "parentOrder": null,
+            "memberOrders": [
+                "Leaf_44",
+                "Leaf_45"
+            ]
+        },
+        "17": {
+            "params": {
+                "type": "Quire",
+                "title": "None",
+                "nestLevel": 1
+            },
+            "tacketed": [],
+            "sewing": [],
+            "parentOrder": null,
+            "memberOrders": [
+                "Leaf_46",
+                "Leaf_47"
+            ]
+        },
+        "18": {
+            "params": {
+                "type": "Quire",
+                "title": "None",
+                "nestLevel": 1
+            },
+            "tacketed": [],
+            "sewing": [],
+            "parentOrder": null,
+            "memberOrders": [
+                "Leaf_48",
+                "Leaf_49"
+            ]
+        },
+        "19": {
+            "params": {
+                "type": "Quire",
+                "title": "None",
+                "nestLevel": 1
+            },
+            "tacketed": [],
+            "sewing": [],
+            "parentOrder": null,
+            "memberOrders": [
+                "Leaf_50",
+                "Leaf_51"
+            ]
+        },
+        "20": {
+            "params": {
+                "type": "Quire",
+                "title": "None",
+                "nestLevel": 1
+            },
+            "tacketed": [],
+            "sewing": [],
+            "parentOrder": null,
+            "memberOrders": [
+                "Leaf_52",
+                "Leaf_53"
+            ]
+        },
+        "21": {
+            "params": {
+                "type": "Quire",
+                "title": "None",
+                "nestLevel": 1
+            },
+            "tacketed": [],
+            "sewing": [],
+            "parentOrder": null,
+            "memberOrders": [
+                "Leaf_54"
+            ]
+        },
+        "22": {
+            "params": {
+                "type": "Quire",
+                "title": "None",
+                "nestLevel": 1
+            },
+            "tacketed": [],
+            "sewing": [],
+            "parentOrder": null,
+            "memberOrders": [
+                "Leaf_55"
+            ]
+        }
+    },
+    "Leafs": {
+        "1": {
+            "params": {
+                "folio_number": "1",
+                "material": "Parchment",
+                "type": "None",
+                "attached_above": "None",
+                "attached_below": "None",
+                "stub": "No",
+                "nestLevel": 1
+            },
+            "conjoined_leaf_order": null,
+            "parentOrder": 1,
+            "rectoOrder": 1,
+            "versoOrder": 1
+        },
+        "2": {
+            "params": {
+                "folio_number": "2",
+                "material": "None",
+                "type": "Original",
+                "attached_above": "None",
+                "attached_below": "None",
+                "stub": "No",
+                "nestLevel": 1
+            },
+            "conjoined_leaf_order": 5,
+            "parentOrder": 2,
+            "rectoOrder": 2,
+            "versoOrder": 2
+        },
+        "3": {
+            "params": {
+                "folio_number": "3 ",
+                "material": "None",
+                "type": "Original",
+                "attached_above": "None",
+                "attached_below": "None",
+                "stub": "No",
+                "nestLevel": 1
+            },
+            "conjoined_leaf_order": 4,
+            "parentOrder": 2,
+            "rectoOrder": 3,
+            "versoOrder": 3
+        },
+        "4": {
+            "params": {
+                "folio_number": "4",
+                "material": "None",
+                "type": "Original",
+                "attached_above": "None",
+                "attached_below": "None",
+                "stub": "No",
+                "nestLevel": 1
+            },
+            "conjoined_leaf_order": 3,
+            "parentOrder": 2,
+            "rectoOrder": 4,
+            "versoOrder": 4
+        },
+        "5": {
+            "params": {
+                "folio_number": "5",
+                "material": "None",
+                "type": "Original",
+                "attached_above": "None",
+                "attached_below": "None",
+                "stub": "No",
+                "nestLevel": 1
+            },
+            "conjoined_leaf_order": 2,
+            "parentOrder": 2,
+            "rectoOrder": 5,
+            "versoOrder": 5
+        },
+        "6": {
+            "params": {
+                "folio_number": "6",
+                "material": "None",
+                "type": "Original",
+                "attached_above": "None",
+                "attached_below": "None",
+                "stub": "No",
+                "nestLevel": 1
+            },
+            "conjoined_leaf_order": 7,
+            "parentOrder": 3,
+            "rectoOrder": 6,
+            "versoOrder": 6
+        },
+        "7": {
+            "params": {
+                "folio_number": "7",
+                "material": "None",
+                "type": "Original",
+                "attached_above": "None",
+                "attached_below": "None",
+                "stub": "No",
+                "nestLevel": 1
+            },
+            "conjoined_leaf_order": 6,
+            "parentOrder": 3,
+            "rectoOrder": 7,
+            "versoOrder": 7
+        },
+        "8": {
+            "params": {
+                "folio_number": "8",
+                "material": "None",
+                "type": "Original",
+                "attached_above": "None",
+                "attached_below": "None",
+                "stub": "No",
+                "nestLevel": 1
+            },
+            "conjoined_leaf_order": null,
+            "parentOrder": 4,
+            "rectoOrder": 8,
+            "versoOrder": 8
+        },
+        "9": {
+            "params": {
+                "folio_number": "9",
+                "material": "None",
+                "type": "Original",
+                "attached_above": "None",
+                "attached_below": "None",
+                "stub": "No",
+                "nestLevel": 1
+            },
+            "conjoined_leaf_order": 10,
+            "parentOrder": 5,
+            "rectoOrder": 9,
+            "versoOrder": 9
+        },
+        "10": {
+            "params": {
+                "folio_number": "10",
+                "material": "None",
+                "type": "Original",
+                "attached_above": "None",
+                "attached_below": "None",
+                "stub": "No",
+                "nestLevel": 1
+            },
+            "conjoined_leaf_order": 9,
+            "parentOrder": 5,
+            "rectoOrder": 10,
+            "versoOrder": 10
+        },
+        "11": {
+            "params": {
+                "folio_number": "11",
+                "material": "None",
+                "type": "Original",
+                "attached_above": "None",
+                "attached_below": "None",
+                "stub": "No",
+                "nestLevel": 1
+            },
+            "conjoined_leaf_order": 16,
+            "parentOrder": 6,
+            "rectoOrder": 11,
+            "versoOrder": 11
+        },
+        "12": {
+            "params": {
+                "folio_number": "12",
+                "material": "None",
+                "type": "Original",
+                "attached_above": "None",
+                "attached_below": "None",
+                "stub": "No",
+                "nestLevel": 1
+            },
+            "conjoined_leaf_order": 15,
+            "parentOrder": 6,
+            "rectoOrder": 12,
+            "versoOrder": 12
+        },
+        "13": {
+            "params": {
+                "folio_number": "13",
+                "material": "None",
+                "type": "Original",
+                "attached_above": "None",
+                "attached_below": "None",
+                "stub": "No",
+                "nestLevel": 1
+            },
+            "conjoined_leaf_order": 14,
+            "parentOrder": 6,
+            "rectoOrder": 13,
+            "versoOrder": 13
+        },
+        "14": {
+            "params": {
+                "folio_number": "14",
+                "material": "None",
+                "type": "Original",
+                "attached_above": "None",
+                "attached_below": "None",
+                "stub": "No",
+                "nestLevel": 1
+            },
+            "conjoined_leaf_order": 13,
+            "parentOrder": 6,
+            "rectoOrder": 14,
+            "versoOrder": 14
+        },
+        "15": {
+            "params": {
+                "folio_number": "15",
+                "material": "None",
+                "type": "Original",
+                "attached_above": "None",
+                "attached_below": "None",
+                "stub": "No",
+                "nestLevel": 1
+            },
+            "conjoined_leaf_order": 12,
+            "parentOrder": 6,
+            "rectoOrder": 15,
+            "versoOrder": 15
+        },
+        "16": {
+            "params": {
+                "folio_number": "16",
+                "material": "None",
+                "type": "Original",
+                "attached_above": "None",
+                "attached_below": "None",
+                "stub": "No",
+                "nestLevel": 1
+            },
+            "conjoined_leaf_order": 11,
+            "parentOrder": 6,
+            "rectoOrder": 16,
+            "versoOrder": 16
+        },
+        "17": {
+            "params": {
+                "folio_number": "17",
+                "material": "None",
+                "type": "Original",
+                "attached_above": "None",
+                "attached_below": "None",
+                "stub": "No",
+                "nestLevel": 1
+            },
+            "conjoined_leaf_order": 24,
+            "parentOrder": 7,
+            "rectoOrder": 17,
+            "versoOrder": 17
+        },
+        "18": {
+            "params": {
+                "folio_number": "18",
+                "material": "None",
+                "type": "Original",
+                "attached_above": "None",
+                "attached_below": "None",
+                "stub": "No",
+                "nestLevel": 1
+            },
+            "conjoined_leaf_order": 23,
+            "parentOrder": 7,
+            "rectoOrder": 18,
+            "versoOrder": 18
+        },
+        "19": {
+            "params": {
+                "folio_number": "19",
+                "material": "None",
+                "type": "Original",
+                "attached_above": "None",
+                "attached_below": "None",
+                "stub": "No",
+                "nestLevel": 1
+            },
+            "conjoined_leaf_order": 22,
+            "parentOrder": 7,
+            "rectoOrder": 19,
+            "versoOrder": 19
+        },
+        "20": {
+            "params": {
+                "folio_number": "20",
+                "material": "None",
+                "type": "Original",
+                "attached_above": "None",
+                "attached_below": "None",
+                "stub": "No",
+                "nestLevel": 1
+            },
+            "conjoined_leaf_order": 21,
+            "parentOrder": 7,
+            "rectoOrder": 20,
+            "versoOrder": 20
+        },
+        "21": {
+            "params": {
+                "folio_number": "21",
+                "material": "None",
+                "type": "Original",
+                "attached_above": "None",
+                "attached_below": "None",
+                "stub": "No",
+                "nestLevel": 1
+            },
+            "conjoined_leaf_order": 20,
+            "parentOrder": 7,
+            "rectoOrder": 21,
+            "versoOrder": 21
+        },
+        "22": {
+            "params": {
+                "folio_number": "22",
+                "material": "None",
+                "type": "Original",
+                "attached_above": "None",
+                "attached_below": "None",
+                "stub": "No",
+                "nestLevel": 1
+            },
+            "conjoined_leaf_order": 19,
+            "parentOrder": 7,
+            "rectoOrder": 22,
+            "versoOrder": 22
+        },
+        "23": {
+            "params": {
+                "folio_number": "23",
+                "material": "None",
+                "type": "Original",
+                "attached_above": "None",
+                "attached_below": "None",
+                "stub": "No",
+                "nestLevel": 1
+            },
+            "conjoined_leaf_order": 18,
+            "parentOrder": 7,
+            "rectoOrder": 23,
+            "versoOrder": 23
+        },
+        "24": {
+            "params": {
+                "folio_number": "24",
+                "material": "None",
+                "type": "Original",
+                "attached_above": "None",
+                "attached_below": "None",
+                "stub": "No",
+                "nestLevel": 1
+            },
+            "conjoined_leaf_order": 17,
+            "parentOrder": 7,
+            "rectoOrder": 24,
+            "versoOrder": 24
+        },
+        "25": {
+            "params": {
+                "folio_number": "",
+                "material": "None",
+                "type": "Original",
+                "attached_above": "None",
+                "attached_below": "None",
+                "stub": "No",
+                "nestLevel": 1
+            },
+            "conjoined_leaf_order": null,
+            "parentOrder": 8,
+            "rectoOrder": 25,
+            "versoOrder": 25
+        },
+        "26": {
+            "params": {
+                "folio_number": "26",
+                "material": "None",
+                "type": "Original",
+                "attached_above": "None",
+                "attached_below": "None",
+                "stub": "No",
+                "nestLevel": 1
+            },
+            "conjoined_leaf_order": 31,
+            "parentOrder": 9,
+            "rectoOrder": 26,
+            "versoOrder": 26
+        },
+        "27": {
+            "params": {
+                "folio_number": "27",
+                "material": "None",
+                "type": "Original",
+                "attached_above": "None",
+                "attached_below": "None",
+                "stub": "No",
+                "nestLevel": 1
+            },
+            "conjoined_leaf_order": 30,
+            "parentOrder": 9,
+            "rectoOrder": 27,
+            "versoOrder": 27
+        },
+        "28": {
+            "params": {
+                "folio_number": "28",
+                "material": "None",
+                "type": "Original",
+                "attached_above": "None",
+                "attached_below": "None",
+                "stub": "No",
+                "nestLevel": 1
+            },
+            "conjoined_leaf_order": 29,
+            "parentOrder": 9,
+            "rectoOrder": 28,
+            "versoOrder": 28
+        },
+        "29": {
+            "params": {
+                "folio_number": "",
+                "material": "None",
+                "type": "Original",
+                "attached_above": "None",
+                "attached_below": "None",
+                "stub": "No",
+                "nestLevel": 1
+            },
+            "conjoined_leaf_order": 28,
+            "parentOrder": 9,
+            "rectoOrder": 29,
+            "versoOrder": 29
+        },
+        "30": {
+            "params": {
+                "folio_number": "",
+                "material": "None",
+                "type": "Original",
+                "attached_above": "None",
+                "attached_below": "None",
+                "stub": "No",
+                "nestLevel": 1
+            },
+            "conjoined_leaf_order": 27,
+            "parentOrder": 9,
+            "rectoOrder": 30,
+            "versoOrder": 30
+        },
+        "31": {
+            "params": {
+                "folio_number": "",
+                "material": "None",
+                "type": "Original",
+                "attached_above": "None",
+                "attached_below": "None",
+                "stub": "No",
+                "nestLevel": 1
+            },
+            "conjoined_leaf_order": 26,
+            "parentOrder": 9,
+            "rectoOrder": 31,
+            "versoOrder": 31
+        },
+        "32": {
+            "params": {
+                "folio_number": "32",
+                "material": "Parchment",
+                "type": "Original",
+                "attached_above": "None",
+                "attached_below": "None",
+                "stub": "No",
+                "nestLevel": 1
+            },
+            "conjoined_leaf_order": null,
+            "parentOrder": 10,
+            "rectoOrder": 32,
+            "versoOrder": 32
+        },
+        "33": {
+            "params": {
+                "folio_number": "",
+                "material": "None",
+                "type": "Original",
+                "attached_above": "None",
+                "attached_below": "None",
+                "stub": "No",
+                "nestLevel": 1
+            },
+            "conjoined_leaf_order": 34,
+            "parentOrder": 11,
+            "rectoOrder": 33,
+            "versoOrder": 33
+        },
+        "34": {
+            "params": {
+                "folio_number": "",
+                "material": "None",
+                "type": "Original",
+                "attached_above": "None",
+                "attached_below": "None",
+                "stub": "No",
+                "nestLevel": 1
+            },
+            "conjoined_leaf_order": 33,
+            "parentOrder": 11,
+            "rectoOrder": 34,
+            "versoOrder": 34
+        },
+        "35": {
+            "params": {
+                "folio_number": "",
+                "material": "None",
+                "type": "Original",
+                "attached_above": "None",
+                "attached_below": "None",
+                "stub": "No",
+                "nestLevel": 1
+            },
+            "conjoined_leaf_order": 38,
+            "parentOrder": 12,
+            "rectoOrder": 35,
+            "versoOrder": 35
+        },
+        "36": {
+            "params": {
+                "folio_number": "",
+                "material": "None",
+                "type": "Original",
+                "attached_above": "None",
+                "attached_below": "None",
+                "stub": "No",
+                "nestLevel": 1
+            },
+            "conjoined_leaf_order": 37,
+            "parentOrder": 12,
+            "rectoOrder": 36,
+            "versoOrder": 36
+        },
+        "37": {
+            "params": {
+                "folio_number": "",
+                "material": "None",
+                "type": "Original",
+                "attached_above": "None",
+                "attached_below": "None",
+                "stub": "No",
+                "nestLevel": 1
+            },
+            "conjoined_leaf_order": 36,
+            "parentOrder": 12,
+            "rectoOrder": 37,
+            "versoOrder": 37
+        },
+        "38": {
+            "params": {
+                "folio_number": "",
+                "material": "None",
+                "type": "Original",
+                "attached_above": "None",
+                "attached_below": "None",
+                "stub": "No",
+                "nestLevel": 1
+            },
+            "conjoined_leaf_order": 35,
+            "parentOrder": 12,
+            "rectoOrder": 38,
+            "versoOrder": 38
+        },
+        "39": {
+            "params": {
+                "folio_number": "",
+                "material": "None",
+                "type": "Original",
+                "attached_above": "None",
+                "attached_below": "None",
+                "stub": "No",
+                "nestLevel": 1
+            },
+            "conjoined_leaf_order": 40,
+            "parentOrder": 13,
+            "rectoOrder": 39,
+            "versoOrder": 39
+        },
+        "40": {
+            "params": {
+                "folio_number": "",
+                "material": "None",
+                "type": "Original",
+                "attached_above": "None",
+                "attached_below": "None",
+                "stub": "No",
+                "nestLevel": 1
+            },
+            "conjoined_leaf_order": 39,
+            "parentOrder": 13,
+            "rectoOrder": 40,
+            "versoOrder": 40
+        },
+        "41": {
+            "params": {
+                "folio_number": "",
+                "material": "None",
+                "type": "Original",
+                "attached_above": "None",
+                "attached_below": "None",
+                "stub": "No",
+                "nestLevel": 1
+            },
+            "conjoined_leaf_order": 42,
+            "parentOrder": 14,
+            "rectoOrder": 41,
+            "versoOrder": 41
+        },
+        "42": {
+            "params": {
+                "folio_number": "",
+                "material": "None",
+                "type": "Original",
+                "attached_above": "None",
+                "attached_below": "None",
+                "stub": "No",
+                "nestLevel": 1
+            },
+            "conjoined_leaf_order": 41,
+            "parentOrder": 14,
+            "rectoOrder": 42,
+            "versoOrder": 42
+        },
+        "43": {
+            "params": {
+                "folio_number": "",
+                "material": "None",
+                "type": "Original",
+                "attached_above": "None",
+                "attached_below": "None",
+                "stub": "No",
+                "nestLevel": 1
+            },
+            "conjoined_leaf_order": null,
+            "parentOrder": 15,
+            "rectoOrder": 43,
+            "versoOrder": 43
+        },
+        "44": {
+            "params": {
+                "folio_number": "",
+                "material": "None",
+                "type": "Original",
+                "attached_above": "None",
+                "attached_below": "None",
+                "stub": "No",
+                "nestLevel": 1
+            },
+            "conjoined_leaf_order": 45,
+            "parentOrder": 16,
+            "rectoOrder": 44,
+            "versoOrder": 44
+        },
+        "45": {
+            "params": {
+                "folio_number": "",
+                "material": "None",
+                "type": "Original",
+                "attached_above": "None",
+                "attached_below": "None",
+                "stub": "No",
+                "nestLevel": 1
+            },
+            "conjoined_leaf_order": 44,
+            "parentOrder": 16,
+            "rectoOrder": 45,
+            "versoOrder": 45
+        },
+        "46": {
+            "params": {
+                "folio_number": "",
+                "material": "None",
+                "type": "Original",
+                "attached_above": "None",
+                "attached_below": "None",
+                "stub": "No",
+                "nestLevel": 1
+            },
+            "conjoined_leaf_order": 47,
+            "parentOrder": 17,
+            "rectoOrder": 46,
+            "versoOrder": 46
+        },
+        "47": {
+            "params": {
+                "folio_number": "",
+                "material": "None",
+                "type": "Original",
+                "attached_above": "None",
+                "attached_below": "None",
+                "stub": "No",
+                "nestLevel": 1
+            },
+            "conjoined_leaf_order": 46,
+            "parentOrder": 17,
+            "rectoOrder": 47,
+            "versoOrder": 47
+        },
+        "48": {
+            "params": {
+                "folio_number": "",
+                "material": "None",
+                "type": "Original",
+                "attached_above": "None",
+                "attached_below": "None",
+                "stub": "No",
+                "nestLevel": 1
+            },
+            "conjoined_leaf_order": 49,
+            "parentOrder": 18,
+            "rectoOrder": 48,
+            "versoOrder": 48
+        },
+        "49": {
+            "params": {
+                "folio_number": "",
+                "material": "None",
+                "type": "Original",
+                "attached_above": "None",
+                "attached_below": "None",
+                "stub": "No",
+                "nestLevel": 1
+            },
+            "conjoined_leaf_order": 48,
+            "parentOrder": 18,
+            "rectoOrder": 49,
+            "versoOrder": 49
+        },
+        "50": {
+            "params": {
+                "folio_number": "",
+                "material": "None",
+                "type": "Original",
+                "attached_above": "None",
+                "attached_below": "None",
+                "stub": "No",
+                "nestLevel": 1
+            },
+            "conjoined_leaf_order": 51,
+            "parentOrder": 19,
+            "rectoOrder": 50,
+            "versoOrder": 50
+        },
+        "51": {
+            "params": {
+                "folio_number": "",
+                "material": "None",
+                "type": "Original",
+                "attached_above": "None",
+                "attached_below": "None",
+                "stub": "No",
+                "nestLevel": 1
+            },
+            "conjoined_leaf_order": 50,
+            "parentOrder": 19,
+            "rectoOrder": 51,
+            "versoOrder": 51
+        },
+        "52": {
+            "params": {
+                "folio_number": "",
+                "material": "None",
+                "type": "Original",
+                "attached_above": "None",
+                "attached_below": "None",
+                "stub": "No",
+                "nestLevel": 1
+            },
+            "conjoined_leaf_order": 53,
+            "parentOrder": 20,
+            "rectoOrder": 52,
+            "versoOrder": 52
+        },
+        "53": {
+            "params": {
+                "folio_number": "",
+                "material": "None",
+                "type": "Original",
+                "attached_above": "None",
+                "attached_below": "None",
+                "stub": "No",
+                "nestLevel": 1
+            },
+            "conjoined_leaf_order": 52,
+            "parentOrder": 20,
+            "rectoOrder": 53,
+            "versoOrder": 53
+        },
+        "54": {
+            "params": {
+                "folio_number": "",
+                "material": "None",
+                "type": "Original",
+                "attached_above": "None",
+                "attached_below": "None",
+                "stub": "No",
+                "nestLevel": 1
+            },
+            "conjoined_leaf_order": null,
+            "parentOrder": 21,
+            "rectoOrder": 54,
+            "versoOrder": 54
+        },
+        "55": {
+            "params": {
+                "folio_number": "",
+                "material": "Other",
+                "type": "Original",
+                "attached_above": "None",
+                "attached_below": "None",
+                "stub": "No",
+                "nestLevel": 1
+            },
+            "conjoined_leaf_order": null,
+            "parentOrder": 22,
+            "rectoOrder": 55,
+            "versoOrder": 55
+        }
+    },
+    "Rectos": {
+        "1": {
+            "params": {
+                "page_number": "",
+                "texture": "None",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "01_r.png",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a34181bcfa7e1000172dab7_01_r.png"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 1
+        },
+        "2": {
+            "params": {
+                "page_number": "",
+                "texture": "Hair",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "02_r.png",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a341d40cfa7e1000172dab8_02_r.png"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 2
+        },
+        "3": {
+            "params": {
+                "page_number": "",
+                "texture": "Hair",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "03_r.png",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a341d40cfa7e1000172dabc_03_r.png"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 3
+        },
+        "4": {
+            "params": {
+                "page_number": "",
+                "texture": "Hair",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "04_r.jpeg",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a341d40cfa7e1000172dab9_04_r.jpeg"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 4
+        },
+        "5": {
+            "params": {
+                "page_number": "",
+                "texture": "Hair",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "05_r.png",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a341d40cfa7e1000172dabe_05_r.png"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 5
+        },
+        "6": {
+            "params": {
+                "page_number": "",
+                "texture": "Hair",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "06_r.png",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a341d93cfa7e1000172dac2_06_r.png"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 6
+        },
+        "7": {
+            "params": {
+                "page_number": "",
+                "texture": "Hair",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "07_r.jpeg",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a341d93cfa7e1000172dac1_07_r.jpeg"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 7
+        },
+        "8": {
+            "params": {
+                "page_number": "",
+                "texture": "Hair",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "08_r.png",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a341dd1cfa7e1000172dac5_08_r.png"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 8
+        },
+        "9": {
+            "params": {
+                "page_number": "",
+                "texture": "Hair",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "09_r.png",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a341e04cfa7e1000172dac6_09_r.png"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 9
+        },
+        "10": {
+            "params": {
+                "page_number": "",
+                "texture": "Hair",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "10_r.jpeg",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a341e04cfa7e1000172dac8_10_r.jpeg"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 10
+        },
+        "11": {
+            "params": {
+                "page_number": "",
+                "texture": "Hair",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "11_r.jpeg",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a341e55cfa7e1000172daca_11_r.jpeg"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 11
+        },
+        "12": {
+            "params": {
+                "page_number": "",
+                "texture": "Hair",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "12_r.png",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a341e55cfa7e1000172dacc_12_r.png"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 12
+        },
+        "13": {
+            "params": {
+                "page_number": "",
+                "texture": "Hair",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "13_r.png",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a341e55cfa7e1000172dacf_13_r.png"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 13
+        },
+        "14": {
+            "params": {
+                "page_number": "",
+                "texture": "Hair",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "14_r.png",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a341e55cfa7e1000172dace_14_r.png"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 14
+        },
+        "15": {
+            "params": {
+                "page_number": "",
+                "texture": "Hair",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "15_r.jpeg",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a341e55cfa7e1000172dad5_15_r.jpeg"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 15
+        },
+        "16": {
+            "params": {
+                "page_number": "",
+                "texture": "Hair",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "16_r.png",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a341e55cfa7e1000172dad3_16_r.png"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 16
+        },
+        "17": {
+            "params": {
+                "page_number": "",
+                "texture": "Hair",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "17_r.png",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a341ed6cfa7e1000172dad6_17_r.png"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 17
+        },
+        "18": {
+            "params": {
+                "page_number": "",
+                "texture": "Hair",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "18_r.jpeg",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a341ed7cfa7e1000172dae0_18_r.jpeg"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 18
+        },
+        "19": {
+            "params": {
+                "page_number": "",
+                "texture": "Hair",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "19_r.jpeg",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a341ed7cfa7e1000172dae5_19_r.jpeg"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 19
+        },
+        "20": {
+            "params": {
+                "page_number": "",
+                "texture": "Hair",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "20_r.jpeg",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a341ed7cfa7e1000172dae4_20_r.jpeg"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 20
+        },
+        "21": {
+            "params": {
+                "page_number": "",
+                "texture": "Hair",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "21_r.jpeg",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a341ed7cfa7e1000172dade_21_r.jpeg"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 21
+        },
+        "22": {
+            "params": {
+                "page_number": "",
+                "texture": "Hair",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "22_r.jpeg",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a341ed7cfa7e1000172dadb_22_r.jpeg"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 22
+        },
+        "23": {
+            "params": {
+                "page_number": "",
+                "texture": "Hair",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "23_r.jpeg",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a341ed7cfa7e1000172dad8_23_r.jpeg"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 23
+        },
+        "24": {
+            "params": {
+                "page_number": "",
+                "texture": "Hair",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "24_r.jpeg",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a341ed7cfa7e1000172dadf_24_r.jpeg"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 24
+        },
+        "25": {
+            "params": {
+                "page_number": "",
+                "texture": "Hair",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "25_r.png",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a341efbcfa7e1000172dae6_25_r.png"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 25
+        },
+        "26": {
+            "params": {
+                "page_number": "",
+                "texture": "Hair",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "26_r.png",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a341f68cfa7e1000172dae8_26_r.png"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 26
+        },
+        "27": {
+            "params": {
+                "page_number": "",
+                "texture": "Hair",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "27_r.png",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a341f69cfa7e1000172daea_27_r.png"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 27
+        },
+        "28": {
+            "params": {
+                "page_number": "",
+                "texture": "Hair",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "28_r.png",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a341f69cfa7e1000172daed_28_r.png"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 28
+        },
+        "29": {
+            "params": {
+                "page_number": "",
+                "texture": "Hair",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "29_r.png",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a341f69cfa7e1000172daef_29_r.png"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 29
+        },
+        "30": {
+            "params": {
+                "page_number": "",
+                "texture": "Hair",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "30_r.png",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a341f69cfa7e1000172daf1_30_r.png"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 30
+        },
+        "31": {
+            "params": {
+                "page_number": "",
+                "texture": "Hair",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "31_v.png",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a341f69cfa7e1000172daeb_31_v.png"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 31
+        },
+        "32": {
+            "params": {
+                "page_number": "32",
+                "texture": "Hair",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "32_r.png",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a341fcccfa7e1000172daf4_32_r.png"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 32
+        },
+        "33": {
+            "params": {
+                "page_number": "",
+                "texture": "Hair",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "33_r.png",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a344389cfa7e1000172db36_33_r.png"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 33
+        },
+        "34": {
+            "params": {
+                "page_number": "",
+                "texture": "Hair",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "34_r.jpeg",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a344389cfa7e1000172db39_34_r.jpeg"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 34
+        },
+        "35": {
+            "params": {
+                "page_number": "",
+                "texture": "Hair",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "35_r.png",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a3443bacfa7e1000172db3a_35_r.png"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 35
+        },
+        "36": {
+            "params": {
+                "page_number": "",
+                "texture": "Hair",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "36_r.jpeg",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a3443bacfa7e1000172db3b_36_r.jpeg"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 36
+        },
+        "37": {
+            "params": {
+                "page_number": "",
+                "texture": "Hair",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "37_r.jpeg",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a3443bacfa7e1000172db40_37_r.jpeg"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 37
+        },
+        "38": {
+            "params": {
+                "page_number": "",
+                "texture": "Hair",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "38_r.jpeg",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a3443bacfa7e1000172db3e_38_r.jpeg"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 38
+        },
+        "39": {
+            "params": {
+                "page_number": "",
+                "texture": "Hair",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "39_r.png",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a344477cfa7e1000172db42_39_r.png"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 39
+        },
+        "40": {
+            "params": {
+                "page_number": "",
+                "texture": "Hair",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "40_r.png",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a344477cfa7e1000172db44_40_r.png"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 40
+        },
+        "41": {
+            "params": {
+                "page_number": "",
+                "texture": "Hair",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "41_r.png",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a344591cfa7e1000172db48_41_r.png"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 41
+        },
+        "42": {
+            "params": {
+                "page_number": "",
+                "texture": "Hair",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "42_r.jpeg",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a344591cfa7e1000172db4b_42_r.jpeg"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 42
+        },
+        "43": {
+            "params": {
+                "page_number": "",
+                "texture": "Hair",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "43_r.png",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a3444d2cfa7e1000172db46_43_r.png"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 43
+        },
+        "44": {
+            "params": {
+                "page_number": "",
+                "texture": "Hair",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "44_r.jpeg",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a3445d1cfa7e1000172db4f_44_r.jpeg"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 44
+        },
+        "45": {
+            "params": {
+                "page_number": "",
+                "texture": "Hair",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "45_r.png",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a3445d0cfa7e1000172db4d_45_r.png"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 45
+        },
+        "46": {
+            "params": {
+                "page_number": "",
+                "texture": "Hair",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "46_r.jpeg",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a344624cfa7e1000172db50_46_r.jpeg"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 46
+        },
+        "47": {
+            "params": {
+                "page_number": "",
+                "texture": "Hair",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "47_r.png",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a344624cfa7e1000172db52_47_r.png"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 47
+        },
+        "48": {
+            "params": {
+                "page_number": "",
+                "texture": "Hair",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "48_r.png",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a344641cfa7e1000172db54_48_r.png"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 48
+        },
+        "49": {
+            "params": {
+                "page_number": "",
+                "texture": "Hair",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "49_r.png",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a344641cfa7e1000172db57_49_r.png"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 49
+        },
+        "50": {
+            "params": {
+                "page_number": "",
+                "texture": "Hair",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "50_r.png",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a34465bcfa7e1000172db5a_50_r.png"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 50
+        },
+        "51": {
+            "params": {
+                "page_number": "",
+                "texture": "Hair",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "51_r.jpeg",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a34465bcfa7e1000172db58_51_r.jpeg"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 51
+        },
+        "52": {
+            "params": {
+                "page_number": "",
+                "texture": "Hair",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "52_r.png",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a344672cfa7e1000172db5d_52_r.png"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 52
+        },
+        "53": {
+            "params": {
+                "page_number": "",
+                "texture": "Hair",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "53_r.png",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a344672cfa7e1000172db5e_53_r.png"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 53
+        },
+        "54": {
+            "params": {
+                "page_number": "",
+                "texture": "Hair",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "54_r.png",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a344682cfa7e1000172db60_54_r.png"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 54
+        },
+        "55": {
+            "params": {
+                "page_number": "",
+                "texture": "None",
+                "image": {},
+                "script_direction": "None"
+            },
+            "parentOrder": 55
+        }
+    },
+    "Versos": {
+        "1": {
+            "params": {
+                "page_number": "",
+                "texture": "None",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "01_v.png",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a34181bcfa7e1000172dab6_01_v.png"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 1
+        },
+        "2": {
+            "params": {
+                "page_number": "",
+                "texture": "Flesh",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "02_v.jpeg",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a341d40cfa7e1000172dabd_02_v.jpeg"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 2
+        },
+        "3": {
+            "params": {
+                "page_number": "",
+                "texture": "Flesh",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "03_v.png",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a341d40cfa7e1000172dabb_03_v.png"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 3
+        },
+        "4": {
+            "params": {
+                "page_number": "",
+                "texture": "Flesh",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "04_v.jpeg",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a341d40cfa7e1000172daba_04_v.jpeg"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 4
+        },
+        "5": {
+            "params": {
+                "page_number": "",
+                "texture": "Flesh",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "05_v.png",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a341d40cfa7e1000172dabf_05_v.png"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 5
+        },
+        "6": {
+            "params": {
+                "page_number": "",
+                "texture": "Flesh",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "06_v.jpeg",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a341d93cfa7e1000172dac0_06_v.jpeg"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 6
+        },
+        "7": {
+            "params": {
+                "page_number": "",
+                "texture": "Flesh",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "07_v.png",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a341d93cfa7e1000172dac3_07_v.png"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 7
+        },
+        "8": {
+            "params": {
+                "page_number": "",
+                "texture": "Flesh",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "08_v.jpeg",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a341dd1cfa7e1000172dac4_08_v.jpeg"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 8
+        },
+        "9": {
+            "params": {
+                "page_number": "",
+                "texture": "Flesh",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "09_v.png",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a341e04cfa7e1000172dac7_09_v.png"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 9
+        },
+        "10": {
+            "params": {
+                "page_number": "",
+                "texture": "Flesh",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "10_v.jpeg",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a341e04cfa7e1000172dac9_10_v.jpeg"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 10
+        },
+        "11": {
+            "params": {
+                "page_number": "",
+                "texture": "Flesh",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "11_v.png",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a341e55cfa7e1000172dacb_11_v.png"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 11
+        },
+        "12": {
+            "params": {
+                "page_number": "",
+                "texture": "Flesh",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "12_v.png",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a341e55cfa7e1000172dacd_12_v.png"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 12
+        },
+        "13": {
+            "params": {
+                "page_number": "",
+                "texture": "Flesh",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "13_v.png",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a341e55cfa7e1000172dad0_13_v.png"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 13
+        },
+        "14": {
+            "params": {
+                "page_number": "",
+                "texture": "Flesh",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "14_v.png",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a341e55cfa7e1000172dad1_14_v.png"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 14
+        },
+        "15": {
+            "params": {
+                "page_number": "",
+                "texture": "Flesh",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "15_v.png",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a341e55cfa7e1000172dad2_15_v.png"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 15
+        },
+        "16": {
+            "params": {
+                "page_number": "",
+                "texture": "Flesh",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "16_v.png",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a341e55cfa7e1000172dad4_16_v.png"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 16
+        },
+        "17": {
+            "params": {
+                "page_number": "",
+                "texture": "Flesh",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "17_v.png",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a341ed7cfa7e1000172dad7_17_v.png"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 17
+        },
+        "18": {
+            "params": {
+                "page_number": "",
+                "texture": "Flesh",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "18_v.jpeg",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a341ed7cfa7e1000172dadc_18_v.jpeg"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 18
+        },
+        "19": {
+            "params": {
+                "page_number": "",
+                "texture": "Flesh",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "19v.jpeg",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a341ed7cfa7e1000172dae3_19v.jpeg"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 19
+        },
+        "20": {
+            "params": {
+                "page_number": "",
+                "texture": "Flesh",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "20_v.jpeg",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a341ed7cfa7e1000172dadd_20_v.jpeg"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 20
+        },
+        "21": {
+            "params": {
+                "page_number": "",
+                "texture": "Flesh",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "21_v.jpeg",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a341ed7cfa7e1000172dada_21_v.jpeg"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 21
+        },
+        "22": {
+            "params": {
+                "page_number": "",
+                "texture": "Flesh",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "22_v.jpeg",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a341ed7cfa7e1000172dae1_22_v.jpeg"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 22
+        },
+        "23": {
+            "params": {
+                "page_number": "",
+                "texture": "Flesh",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "23_v.jpeg",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a341ed7cfa7e1000172dad9_23_v.jpeg"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 23
+        },
+        "24": {
+            "params": {
+                "page_number": "",
+                "texture": "Flesh",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "24_v.jpeg",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a341ed7cfa7e1000172dae2_24_v.jpeg"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 24
+        },
+        "25": {
+            "params": {
+                "page_number": "",
+                "texture": "Flesh",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "25v.jpeg",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a341efbcfa7e1000172dae7_25v.jpeg"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 25
+        },
+        "26": {
+            "params": {
+                "page_number": "",
+                "texture": "Flesh",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "26_v.png",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a341f69cfa7e1000172dae9_26_v.png"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 26
+        },
+        "27": {
+            "params": {
+                "page_number": "",
+                "texture": "Flesh",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "27_v.png",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a341f69cfa7e1000172daec_27_v.png"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 27
+        },
+        "28": {
+            "params": {
+                "page_number": "",
+                "texture": "Flesh",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "28_v.png",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a341f69cfa7e1000172daee_28_v.png"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 28
+        },
+        "29": {
+            "params": {
+                "page_number": "",
+                "texture": "Flesh",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "29_v.png",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a341f69cfa7e1000172daf0_29_v.png"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 29
+        },
+        "30": {
+            "params": {
+                "page_number": "",
+                "texture": "Flesh",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "30_v.png",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a341f69cfa7e1000172daf2_30_v.png"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 30
+        },
+        "31": {
+            "params": {
+                "page_number": "",
+                "texture": "Flesh",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "31r.jpeg",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a341f69cfa7e1000172daf3_31r.jpeg"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 31
+        },
+        "32": {
+            "params": {
+                "page_number": "32",
+                "texture": "Flesh",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "32_v.png",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a341fcccfa7e1000172daf5_32_v.png"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 32
+        },
+        "33": {
+            "params": {
+                "page_number": "",
+                "texture": "Flesh",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "33_v.png",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a344389cfa7e1000172db37_33_v.png"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 33
+        },
+        "34": {
+            "params": {
+                "page_number": "",
+                "texture": "Flesh",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "34_v.png",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a344389cfa7e1000172db38_34_v.png"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 34
+        },
+        "35": {
+            "params": {
+                "page_number": "",
+                "texture": "Flesh",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "35_v.png",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a3443bacfa7e1000172db3c_35_v.png"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 35
+        },
+        "36": {
+            "params": {
+                "page_number": "",
+                "texture": "Flesh",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "36_v.png",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a3443bacfa7e1000172db3f_36_v.png"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 36
+        },
+        "37": {
+            "params": {
+                "page_number": "",
+                "texture": "Flesh",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "37_v.png",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a3443bacfa7e1000172db3d_37_v.png"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 37
+        },
+        "38": {
+            "params": {
+                "page_number": "",
+                "texture": "Flesh",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "38_v.jpeg",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a3443bacfa7e1000172db41_38_v.jpeg"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 38
+        },
+        "39": {
+            "params": {
+                "page_number": "",
+                "texture": "Flesh",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "39_v.png",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a344477cfa7e1000172db43_39_v.png"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 39
+        },
+        "40": {
+            "params": {
+                "page_number": "",
+                "texture": "Flesh",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "40_v.png",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a344477cfa7e1000172db45_40_v.png"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 40
+        },
+        "41": {
+            "params": {
+                "page_number": "",
+                "texture": "Flesh",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "41_v.png",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a344591cfa7e1000172db49_41_v.png"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 41
+        },
+        "42": {
+            "params": {
+                "page_number": "",
+                "texture": "Flesh",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "42_v.png",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a344591cfa7e1000172db4a_42_v.png"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 42
+        },
+        "43": {
+            "params": {
+                "page_number": "",
+                "texture": "Flesh",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "43_v.png",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a3444d2cfa7e1000172db47_43_v.png"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 43
+        },
+        "44": {
+            "params": {
+                "page_number": "",
+                "texture": "Flesh",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "44_v.png",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a3445d0cfa7e1000172db4c_44_v.png"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 44
+        },
+        "45": {
+            "params": {
+                "page_number": "",
+                "texture": "Flesh",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "45_v.png",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a3445d1cfa7e1000172db4e_45_v.png"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 45
+        },
+        "46": {
+            "params": {
+                "page_number": "",
+                "texture": "Flesh",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "46_v.png",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a344624cfa7e1000172db51_46_v.png"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 46
+        },
+        "47": {
+            "params": {
+                "page_number": "",
+                "texture": "Flesh",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "47_v.png",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a344624cfa7e1000172db53_47_v.png"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 47
+        },
+        "48": {
+            "params": {
+                "page_number": "",
+                "texture": "Flesh",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "48_v.png",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a344641cfa7e1000172db55_48_v.png"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 48
+        },
+        "49": {
+            "params": {
+                "page_number": "",
+                "texture": "Flesh",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "49_v.png",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a344641cfa7e1000172db56_49_v.png"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 49
+        },
+        "50": {
+            "params": {
+                "page_number": "",
+                "texture": "Flesh",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "50_v.png",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a34465bcfa7e1000172db5b_50_v.png"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 50
+        },
+        "51": {
+            "params": {
+                "page_number": "",
+                "texture": "Flesh",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "51_v.jpeg",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a34465bcfa7e1000172db59_51_v.jpeg"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 51
+        },
+        "52": {
+            "params": {
+                "page_number": "",
+                "texture": "Flesh",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "52_v.jpeg",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a344672cfa7e1000172db5c_52_v.jpeg"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 52
+        },
+        "53": {
+            "params": {
+                "page_number": "",
+                "texture": "Flesh",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "53_v.png",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a344672cfa7e1000172db5f_53_v.png"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 53
+        },
+        "54": {
+            "params": {
+                "page_number": "",
+                "texture": "Flesh",
+                "image": {
+                    "manifestID": "DIYImages",
+                    "label": "54_v.png",
+                    "url": "https://vceditor.library.upenn.edu:443/images/6a344682cfa7e1000172db61_54_v.png"
+                },
+                "script_direction": "None"
+            },
+            "parentOrder": 54
+        },
+        "55": {
+            "params": {
+                "page_number": "",
+                "texture": "None",
+                "image": {},
+                "script_direction": "None"
+            },
+            "parentOrder": 55
+        }
+    },
+    "Terms": {}
+}
