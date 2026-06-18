@@ -1,0 +1,416 @@
+<?xml version="1.0"?>
+<viscoll xmlns="http://viscoll.org/schema/collation/" version="2.1.0">
+  <textblock>
+    <title>Evangeliary of Alberto of Vercelli</title>
+    <shelfmark>Codex C</shelfmark>
+    <date>1190-1204</date>
+    <direction val="l-r"/>
+    <quires>
+      <quire xml:id="Group_0001fdba1717521604722200" n="6" certainty="1"/>
+      <quire xml:id="Group_001fdba17175215777379210" n="1" certainty="1"/>
+      <quire xml:id="Group_0001fdba1717521610148620" n="10" certainty="1"/>
+      <quire xml:id="Group_0001fdba1717521610572340" n="11" certainty="1"/>
+      <quire xml:id="Group_0001fdba1717521611146210" n="12" certainty="1"/>
+      <quire xml:id="Group_001fdba17175215777379211" n="2" certainty="1"/>
+      <quire xml:id="Group_001fdba17175215777379213" n="3" certainty="1"/>
+      <quire xml:id="Group_0001fdba1717816250648680" n="17" certainty="1"/>
+      <quire xml:id="Group_001fdba17175215777379215" n="4" certainty="1"/>
+      <quire xml:id="Group_001fdba17175215777379217" n="5" certainty="1"/>
+      <quire xml:id="Group_0001fdba1717816251918590" n="18" certainty="1"/>
+      <quire xml:id="Group_0001fdba1717521604965940" n="7" certainty="1"/>
+      <quire xml:id="Group_0001fdba1717521604965943" n="8" certainty="1"/>
+      <quire xml:id="Group_0001fdba1717521604965944" n="9" certainty="1"/>
+      <quire xml:id="Group_0001fdba1717816252829670" n="19" certainty="1"/>
+      <quire xml:id="Group_0001fdba1717522279063080" n="13" certainty="1"/>
+      <quire xml:id="Group_0001fdba1717522279235710" n="14" certainty="1"/>
+      <quire xml:id="Group_0001fdba1717522279532600" n="15" certainty="1"/>
+      <quire xml:id="Group_0001fdba1717522279932990" n="16" certainty="1"/>
+      <quire xml:id="Group_0001fdba1717816253435160" n="20" certainty="1"/>
+      <quire xml:id="Group_0001fdba1717816253801330" n="21" certainty="1"/>
+      <quire xml:id="Group_0001fdba1717816924458610" n="22" certainty="1"/>
+    </quires>
+    <leaves>
+      <leaf xml:id="Leaf_0001fdba1717521604722202">
+        <folioNumber certainty="1" val="1">1</folioNumber>
+        <mode/>
+        <q target="#Group_0001fdba1717521604722200" position="1" n="6" certainty="1">
+          <single val="yes"/>
+        </q>
+      </leaf>
+      <leaf xml:id="Leaf_0001fdba1717521609655930">
+        <folioNumber certainty="1" val="2">2</folioNumber>
+        <mode val="original" certainty="1"/>
+        <q target="#Group_001fdba17175215777379210" position="1" n="1" certainty="1">
+          <conjoin certainty="1" target="#Leaf_0001fdba1717521609655933"/>
+        </q>
+      </leaf>
+      <leaf xml:id="Leaf_0001fdba1717521609655931">
+        <folioNumber certainty="1" val="3 ">3 </folioNumber>
+        <mode val="original" certainty="1"/>
+        <q target="#Group_001fdba17175215777379210" position="2" n="1" certainty="1">
+          <conjoin certainty="1" target="#Leaf_0001fdba1717521609655932"/>
+        </q>
+      </leaf>
+      <leaf xml:id="Leaf_0001fdba1717521609655932">
+        <folioNumber certainty="1" val="4">4</folioNumber>
+        <mode val="original" certainty="1"/>
+        <q target="#Group_001fdba17175215777379210" position="3" n="1" certainty="1">
+          <conjoin certainty="1" target="#Leaf_0001fdba1717521609655931"/>
+        </q>
+      </leaf>
+      <leaf xml:id="Leaf_0001fdba1717521609655933">
+        <folioNumber certainty="1" val="5">5</folioNumber>
+        <mode val="original" certainty="1"/>
+        <q target="#Group_001fdba17175215777379210" position="4" n="1" certainty="1">
+          <conjoin certainty="1" target="#Leaf_0001fdba1717521609655930"/>
+        </q>
+      </leaf>
+      <leaf xml:id="Leaf_0001fdba1717521610277810">
+        <folioNumber certainty="1" val="6">6</folioNumber>
+        <mode val="original" certainty="1"/>
+        <q target="#Group_0001fdba1717521610148620" position="1" n="10" certainty="1">
+          <conjoin certainty="1" target="#Leaf_0001fdba1717521610277813"/>
+        </q>
+      </leaf>
+      <leaf xml:id="Leaf_0001fdba1717521610277813">
+        <folioNumber certainty="1" val="7">7</folioNumber>
+        <mode val="original" certainty="1"/>
+        <q target="#Group_0001fdba1717521610148620" position="2" n="10" certainty="1">
+          <conjoin certainty="1" target="#Leaf_0001fdba1717521610277810"/>
+        </q>
+      </leaf>
+      <leaf xml:id="Leaf_0001fdba1717521610619270">
+        <folioNumber certainty="1" val="8">8</folioNumber>
+        <mode val="original" certainty="1"/>
+        <q target="#Group_0001fdba1717521610572340" position="1" n="11" certainty="1">
+          <single val="yes"/>
+        </q>
+      </leaf>
+      <leaf xml:id="Leaf_0001fdba1717521611146211">
+        <folioNumber certainty="1" val="9">9</folioNumber>
+        <mode val="original" certainty="1"/>
+        <q target="#Group_0001fdba1717521611146210" position="1" n="12" certainty="1">
+          <conjoin certainty="1" target="#Leaf_0001fdba1717521611146212"/>
+        </q>
+      </leaf>
+      <leaf xml:id="Leaf_0001fdba1717521611146212">
+        <folioNumber certainty="1" val="10">10</folioNumber>
+        <mode val="original" certainty="1"/>
+        <q target="#Group_0001fdba1717521611146210" position="2" n="12" certainty="1">
+          <conjoin certainty="1" target="#Leaf_0001fdba1717521611146211"/>
+        </q>
+      </leaf>
+      <leaf xml:id="Leaf_0001fdba1717521597373770">
+        <folioNumber certainty="1" val="11">11</folioNumber>
+        <mode val="original" certainty="1"/>
+        <q target="#Group_001fdba17175215777379211" position="1" n="2" certainty="1">
+          <conjoin certainty="1" target="#Leaf_0001fdba1717521597373775"/>
+        </q>
+      </leaf>
+      <leaf xml:id="Leaf_0001fdba1717521597373771">
+        <folioNumber certainty="1" val="12">12</folioNumber>
+        <mode val="original" certainty="1"/>
+        <q target="#Group_001fdba17175215777379211" position="2" n="2" certainty="1">
+          <conjoin certainty="1" target="#Leaf_0001fdba1717521597373774"/>
+        </q>
+      </leaf>
+      <leaf xml:id="Leaf_0001fdba1717521597373772">
+        <folioNumber certainty="1" val="13">13</folioNumber>
+        <mode val="original" certainty="1"/>
+        <q target="#Group_001fdba17175215777379211" position="3" n="2" certainty="1">
+          <conjoin certainty="1" target="#Leaf_0001fdba1717521597373773"/>
+        </q>
+      </leaf>
+      <leaf xml:id="Leaf_0001fdba1717521597373773">
+        <folioNumber certainty="1" val="14">14</folioNumber>
+        <mode val="original" certainty="1"/>
+        <q target="#Group_001fdba17175215777379211" position="4" n="2" certainty="1">
+          <conjoin certainty="1" target="#Leaf_0001fdba1717521597373772"/>
+        </q>
+      </leaf>
+      <leaf xml:id="Leaf_0001fdba1717521597373774">
+        <folioNumber certainty="1" val="15">15</folioNumber>
+        <mode val="original" certainty="1"/>
+        <q target="#Group_001fdba17175215777379211" position="5" n="2" certainty="1">
+          <conjoin certainty="1" target="#Leaf_0001fdba1717521597373771"/>
+        </q>
+      </leaf>
+      <leaf xml:id="Leaf_0001fdba1717521597373775">
+        <folioNumber certainty="1" val="16">16</folioNumber>
+        <mode val="original" certainty="1"/>
+        <q target="#Group_001fdba17175215777379211" position="6" n="2" certainty="1">
+          <conjoin certainty="1" target="#Leaf_0001fdba1717521597373770"/>
+        </q>
+      </leaf>
+      <leaf xml:id="Leaf_0001fdba1717521601768310">
+        <folioNumber certainty="1" val="17">17</folioNumber>
+        <mode val="original" certainty="1"/>
+        <q target="#Group_001fdba17175215777379213" position="1" n="3" certainty="1">
+          <conjoin certainty="1" target="#Leaf_0001fdba1717521601768317"/>
+        </q>
+      </leaf>
+      <leaf xml:id="Leaf_0001fdba1717521601768311">
+        <folioNumber certainty="1" val="18">18</folioNumber>
+        <mode val="original" certainty="1"/>
+        <q target="#Group_001fdba17175215777379213" position="2" n="3" certainty="1">
+          <conjoin certainty="1" target="#Leaf_0001fdba1717521601768316"/>
+        </q>
+      </leaf>
+      <leaf xml:id="Leaf_0001fdba1717521601768312">
+        <folioNumber certainty="1" val="19">19</folioNumber>
+        <mode val="original" certainty="1"/>
+        <q target="#Group_001fdba17175215777379213" position="3" n="3" certainty="1">
+          <conjoin certainty="1" target="#Leaf_0001fdba1717521601768315"/>
+        </q>
+      </leaf>
+      <leaf xml:id="Leaf_0001fdba1717521601768313">
+        <folioNumber certainty="1" val="20">20</folioNumber>
+        <mode val="original" certainty="1"/>
+        <q target="#Group_001fdba17175215777379213" position="4" n="3" certainty="1">
+          <conjoin certainty="1" target="#Leaf_0001fdba1717521601768314"/>
+        </q>
+      </leaf>
+      <leaf xml:id="Leaf_0001fdba1717521601768314">
+        <folioNumber certainty="1" val="21">21</folioNumber>
+        <mode val="original" certainty="1"/>
+        <q target="#Group_001fdba17175215777379213" position="5" n="3" certainty="1">
+          <conjoin certainty="1" target="#Leaf_0001fdba1717521601768313"/>
+        </q>
+      </leaf>
+      <leaf xml:id="Leaf_0001fdba1717521601768315">
+        <folioNumber certainty="1" val="22">22</folioNumber>
+        <mode val="original" certainty="1"/>
+        <q target="#Group_001fdba17175215777379213" position="6" n="3" certainty="1">
+          <conjoin certainty="1" target="#Leaf_0001fdba1717521601768312"/>
+        </q>
+      </leaf>
+      <leaf xml:id="Leaf_0001fdba1717521601768316">
+        <folioNumber certainty="1" val="23">23</folioNumber>
+        <mode val="original" certainty="1"/>
+        <q target="#Group_001fdba17175215777379213" position="7" n="3" certainty="1">
+          <conjoin certainty="1" target="#Leaf_0001fdba1717521601768311"/>
+        </q>
+      </leaf>
+      <leaf xml:id="Leaf_0001fdba1717521601768317">
+        <folioNumber certainty="1" val="24">24</folioNumber>
+        <mode val="original" certainty="1"/>
+        <q target="#Group_001fdba17175215777379213" position="8" n="3" certainty="1">
+          <conjoin certainty="1" target="#Leaf_0001fdba1717521601768310"/>
+        </q>
+      </leaf>
+      <leaf xml:id="Leaf_0001fdba1717816251077350">
+        <mode val="original" certainty="1"/>
+        <q target="#Group_0001fdba1717816250648680" position="1" n="17" certainty="1">
+          <single val="yes"/>
+        </q>
+      </leaf>
+      <leaf xml:id="Leaf_0001fdba1717521602648820">
+        <folioNumber certainty="1" val="26">26</folioNumber>
+        <mode val="original" certainty="1"/>
+        <q target="#Group_001fdba17175215777379215" position="1" n="4" certainty="1">
+          <conjoin certainty="1" target="#Leaf_0001fdba1717521602648824"/>
+        </q>
+      </leaf>
+      <leaf xml:id="Leaf_0001fdba1717521602648822">
+        <folioNumber certainty="1" val="27">27</folioNumber>
+        <mode val="original" certainty="1"/>
+        <q target="#Group_001fdba17175215777379215" position="2" n="4" certainty="1">
+          <conjoin certainty="1" target="#Leaf_0001fdba1717521608152581"/>
+        </q>
+      </leaf>
+      <leaf xml:id="Leaf_0001fdba1717521602648823">
+        <folioNumber certainty="1" val="28">28</folioNumber>
+        <mode val="original" certainty="1"/>
+        <q target="#Group_001fdba17175215777379215" position="3" n="4" certainty="1">
+          <conjoin certainty="1" target="#Leaf_0001fdba1717521608152580"/>
+        </q>
+      </leaf>
+      <leaf xml:id="Leaf_0001fdba1717521608152580">
+        <mode val="original" certainty="1"/>
+        <q target="#Group_001fdba17175215777379215" position="4" n="4" certainty="1">
+          <conjoin certainty="1" target="#Leaf_0001fdba1717521602648823"/>
+        </q>
+      </leaf>
+      <leaf xml:id="Leaf_0001fdba1717521608152581">
+        <mode val="original" certainty="1"/>
+        <q target="#Group_001fdba17175215777379215" position="5" n="4" certainty="1">
+          <conjoin certainty="1" target="#Leaf_0001fdba1717521602648822"/>
+        </q>
+      </leaf>
+      <leaf xml:id="Leaf_0001fdba1717521602648824">
+        <mode val="original" certainty="1"/>
+        <q target="#Group_001fdba17175215777379215" position="6" n="4" certainty="1">
+          <conjoin certainty="1" target="#Leaf_0001fdba1717521602648820"/>
+        </q>
+      </leaf>
+      <leaf xml:id="Leaf_0001fdba1717521605379690">
+        <folioNumber certainty="1" val="32; 32-32">32; 32-32</folioNumber>
+        <mode val="original" certainty="1"/>
+        <q target="#Group_001fdba17175215777379217" position="1" n="5" certainty="1">
+          <single val="yes"/>
+        </q>
+      </leaf>
+      <leaf xml:id="Leaf_0001fdba1717816252122000">
+        <mode val="original" certainty="1"/>
+        <q target="#Group_0001fdba1717816251918590" position="1" n="18" certainty="1">
+          <conjoin certainty="1" target="#Leaf_0001fdba1717816252078170"/>
+        </q>
+      </leaf>
+      <leaf xml:id="Leaf_0001fdba1717816252078170">
+        <mode val="original" certainty="1"/>
+        <q target="#Group_0001fdba1717816251918590" position="2" n="18" certainty="1">
+          <conjoin certainty="1" target="#Leaf_0001fdba1717816252122000"/>
+        </q>
+      </leaf>
+      <leaf xml:id="Leaf_0001fdba1717816248955400">
+        <mode val="original" certainty="1"/>
+        <q target="#Group_0001fdba1717521604965940" position="1" n="7" certainty="1">
+          <conjoin certainty="1" target="#Leaf_0001fdba1717816249328640"/>
+        </q>
+      </leaf>
+      <leaf xml:id="Leaf_0001fdba1717522278050450">
+        <mode val="original" certainty="1"/>
+        <q target="#Group_0001fdba1717521604965940" position="2" n="7" certainty="1">
+          <conjoin certainty="1" target="#Leaf_0001fdba1717522278050451"/>
+        </q>
+      </leaf>
+      <leaf xml:id="Leaf_0001fdba1717522278050451">
+        <mode val="original" certainty="1"/>
+        <q target="#Group_0001fdba1717521604965940" position="3" n="7" certainty="1">
+          <conjoin certainty="1" target="#Leaf_0001fdba1717522278050450"/>
+        </q>
+      </leaf>
+      <leaf xml:id="Leaf_0001fdba1717816249328640">
+        <mode val="original" certainty="1"/>
+        <q target="#Group_0001fdba1717521604965940" position="4" n="7" certainty="1">
+          <conjoin certainty="1" target="#Leaf_0001fdba1717816248955400"/>
+        </q>
+      </leaf>
+      <leaf xml:id="Leaf_0001fdba1717522278311790">
+        <mode val="original" certainty="1"/>
+        <q target="#Group_0001fdba1717521604965943" position="1" n="8" certainty="1">
+          <conjoin certainty="1" target="#Leaf_0001fdba1717522278311791"/>
+        </q>
+      </leaf>
+      <leaf xml:id="Leaf_0001fdba1717522278311791">
+        <mode val="original" certainty="1"/>
+        <q target="#Group_0001fdba1717521604965943" position="2" n="8" certainty="1">
+          <conjoin certainty="1" target="#Leaf_0001fdba1717522278311790"/>
+        </q>
+      </leaf>
+      <leaf xml:id="Leaf_0001fdba1717521604965949">
+        <mode val="original" certainty="1"/>
+        <q target="#Group_0001fdba1717521604965944" position="1" n="9" certainty="1">
+          <conjoin certainty="1" target="#Leaf_0001fdba1717522278524350"/>
+        </q>
+      </leaf>
+      <leaf xml:id="Leaf_0001fdba1717522278524350">
+        <mode val="original" certainty="1"/>
+        <q target="#Group_0001fdba1717521604965944" position="2" n="9" certainty="1">
+          <conjoin certainty="1" target="#Leaf_0001fdba1717521604965949"/>
+        </q>
+      </leaf>
+      <leaf xml:id="Leaf_0001fdba1717816252872500">
+        <mode val="original" certainty="1"/>
+        <q target="#Group_0001fdba1717816252829670" position="1" n="19" certainty="1">
+          <single val="yes"/>
+        </q>
+      </leaf>
+      <leaf xml:id="Leaf_0001fdba1717522279063081">
+        <mode val="original" certainty="1"/>
+        <q target="#Group_0001fdba1717522279063080" position="1" n="13" certainty="1">
+          <conjoin certainty="1" target="#Leaf_0001fdba1717522279063082"/>
+        </q>
+      </leaf>
+      <leaf xml:id="Leaf_0001fdba1717522279063082">
+        <mode val="original" certainty="1"/>
+        <q target="#Group_0001fdba1717522279063080" position="2" n="13" certainty="1">
+          <conjoin certainty="1" target="#Leaf_0001fdba1717522279063081"/>
+        </q>
+      </leaf>
+      <leaf xml:id="Leaf_0001fdba1717522279235711">
+        <mode val="original" certainty="1"/>
+        <q target="#Group_0001fdba1717522279235710" position="1" n="14" certainty="1">
+          <conjoin certainty="1" target="#Leaf_0001fdba1717522279235712"/>
+        </q>
+      </leaf>
+      <leaf xml:id="Leaf_0001fdba1717522279235712">
+        <mode val="original" certainty="1"/>
+        <q target="#Group_0001fdba1717522279235710" position="2" n="14" certainty="1">
+          <conjoin certainty="1" target="#Leaf_0001fdba1717522279235711"/>
+        </q>
+      </leaf>
+      <leaf xml:id="Leaf_0001fdba1717522279532601">
+        <mode val="original" certainty="1"/>
+        <q target="#Group_0001fdba1717522279532600" position="1" n="15" certainty="1">
+          <conjoin certainty="1" target="#Leaf_0001fdba1717522279532602"/>
+        </q>
+      </leaf>
+      <leaf xml:id="Leaf_0001fdba1717522279532602">
+        <mode val="original" certainty="1"/>
+        <q target="#Group_0001fdba1717522279532600" position="2" n="15" certainty="1">
+          <conjoin certainty="1" target="#Leaf_0001fdba1717522279532601"/>
+        </q>
+      </leaf>
+      <leaf xml:id="Leaf_0001fdba1717522279932991">
+        <mode val="original" certainty="1"/>
+        <q target="#Group_0001fdba1717522279932990" position="1" n="16" certainty="1">
+          <conjoin certainty="1" target="#Leaf_0001fdba1717816253310250"/>
+        </q>
+      </leaf>
+      <leaf xml:id="Leaf_0001fdba1717816253310250">
+        <mode val="original" certainty="1"/>
+        <q target="#Group_0001fdba1717522279932990" position="2" n="16" certainty="1">
+          <conjoin certainty="1" target="#Leaf_0001fdba1717522279932991"/>
+        </q>
+      </leaf>
+      <leaf xml:id="Leaf_0001fdba1717816253517000">
+        <mode val="original" certainty="1"/>
+        <q target="#Group_0001fdba1717816253435160" position="1" n="20" certainty="1">
+          <conjoin certainty="1" target="#Leaf_0001fdba1717816253487730"/>
+        </q>
+      </leaf>
+      <leaf xml:id="Leaf_0001fdba1717816253487730">
+        <mode val="original" certainty="1"/>
+        <q target="#Group_0001fdba1717816253435160" position="2" n="20" certainty="1">
+          <conjoin certainty="1" target="#Leaf_0001fdba1717816253517000"/>
+        </q>
+      </leaf>
+      <leaf xml:id="Leaf_0001fdba1717816253861830">
+        <mode val="original" certainty="1"/>
+        <q target="#Group_0001fdba1717816253801330" position="1" n="21" certainty="1">
+          <single val="yes"/>
+        </q>
+      </leaf>
+      <leaf xml:id="Leaf_0001fdba1717816924718200">
+        <mode val="original" certainty="1"/>
+        <q target="#Group_0001fdba1717816924458610" position="1" n="22" certainty="1">
+          <single val="yes"/>
+        </q>
+      </leaf>
+    </leaves>
+  </textblock>
+  <taxonomy xml:id="id-sides" ref="http://w3id.org/lob/">
+    <label>Parchment Sides</label>
+    <term xml:id="id-hs" ref="http://w3id.org/lob/concept/1381">
+      <label>hairside</label>
+    </term>
+    <term xml:id="id-fs" ref="http://w3id.org/lob/concept/1336">
+      <label>fleshside</label>
+    </term>
+    <term xml:id="id-left" ref="http://w3id.org/lob/concept/2947">
+      <label>left</label>
+    </term>
+    <term xml:id="id-right" ref="http://w3id.org/lob/concept/3004">
+      <label>right</label>
+    </term>
+  </taxonomy>
+  <mapping>
+    <map target="#Leaf_0001fdba1717521609655930 #Leaf_0001fdba1717521609655931 #Leaf_0001fdba1717521609655932 #Leaf_0001fdba1717521609655933 #Leaf_0001fdba1717521597373770 #Leaf_0001fdba1717521597373771 #Leaf_0001fdba1717521597373772 #Leaf_0001fdba1717521597373773 #Leaf_0001fdba1717521597373774 #Leaf_0001fdba1717521597373775 #Leaf_0001fdba1717521601768310 #Leaf_0001fdba1717521601768311 #Leaf_0001fdba1717521601768312 #Leaf_0001fdba1717521601768313 #Leaf_0001fdba1717521601768314 #Leaf_0001fdba1717521601768315 #Leaf_0001fdba1717521601768316 #Leaf_0001fdba1717521601768317 #Leaf_0001fdba1717521602648820 #Leaf_0001fdba1717521602648822 #Leaf_0001fdba1717521602648823 #Leaf_0001fdba1717521608152580 #Leaf_0001fdba1717521608152581 #Leaf_0001fdba1717521602648824 #Leaf_0001fdba1717521605379690 #Leaf_0001fdba1717816248955400 #Leaf_0001fdba1717522278050450 #Leaf_0001fdba1717522278050451 #Leaf_0001fdba1717816249328640 #Leaf_0001fdba1717522278311790 #Leaf_0001fdba1717522278311791 #Leaf_0001fdba1717521604965949 #Leaf_0001fdba1717522278524350 #Leaf_0001fdba1717521610277810 #Leaf_0001fdba1717521610277813 #Leaf_0001fdba1717521610619270 #Leaf_0001fdba1717521611146211 #Leaf_0001fdba1717521611146212 #Leaf_0001fdba1717522279063081 #Leaf_0001fdba1717522279063082 #Leaf_0001fdba1717522279235711 #Leaf_0001fdba1717522279235712 #Leaf_0001fdba1717522279532601 #Leaf_0001fdba1717522279532602 #Leaf_0001fdba1717522279932991 #Leaf_0001fdba1717816253310250 #Leaf_0001fdba1717816251077350 #Leaf_0001fdba1717816252122000 #Leaf_0001fdba1717816252078170 #Leaf_0001fdba1717816252872500 #Leaf_0001fdba1717816253517000 #Leaf_0001fdba1717816253487730 #Leaf_0001fdba1717816253861830" side="left">
+      <term target="#id-hs"/>
+    </map>
+    <map target="#Leaf_0001fdba1717521609655930 #Leaf_0001fdba1717521609655931 #Leaf_0001fdba1717521609655932 #Leaf_0001fdba1717521609655933 #Leaf_0001fdba1717521597373770 #Leaf_0001fdba1717521597373771 #Leaf_0001fdba1717521597373772 #Leaf_0001fdba1717521597373773 #Leaf_0001fdba1717521597373774 #Leaf_0001fdba1717521597373775 #Leaf_0001fdba1717521601768310 #Leaf_0001fdba1717521601768311 #Leaf_0001fdba1717521601768312 #Leaf_0001fdba1717521601768313 #Leaf_0001fdba1717521601768314 #Leaf_0001fdba1717521601768315 #Leaf_0001fdba1717521601768316 #Leaf_0001fdba1717521601768317 #Leaf_0001fdba1717521602648820 #Leaf_0001fdba1717521602648822 #Leaf_0001fdba1717521602648823 #Leaf_0001fdba1717521608152580 #Leaf_0001fdba1717521608152581 #Leaf_0001fdba1717521602648824 #Leaf_0001fdba1717521605379690 #Leaf_0001fdba1717816248955400 #Leaf_0001fdba1717522278050450 #Leaf_0001fdba1717522278050451 #Leaf_0001fdba1717816249328640 #Leaf_0001fdba1717522278311790 #Leaf_0001fdba1717522278311791 #Leaf_0001fdba1717521604965949 #Leaf_0001fdba1717522278524350 #Leaf_0001fdba1717521610277810 #Leaf_0001fdba1717521610277813 #Leaf_0001fdba1717521610619270 #Leaf_0001fdba1717521611146211 #Leaf_0001fdba1717521611146212 #Leaf_0001fdba1717522279063081 #Leaf_0001fdba1717522279063082 #Leaf_0001fdba1717522279235711 #Leaf_0001fdba1717522279235712 #Leaf_0001fdba1717522279532601 #Leaf_0001fdba1717522279532602 #Leaf_0001fdba1717522279932991 #Leaf_0001fdba1717816253310250 #Leaf_0001fdba1717816251077350 #Leaf_0001fdba1717816252122000 #Leaf_0001fdba1717816252078170 #Leaf_0001fdba1717816252872500 #Leaf_0001fdba1717816253517000 #Leaf_0001fdba1717816253487730 #Leaf_0001fdba1717816253861830" side="right">
+      <term target="#id-fs"/>
+    </map>
+  </mapping>
+</viscoll>
